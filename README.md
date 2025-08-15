@@ -1,3 +1,1 @@
-This project is a example for create web API with Asp.Net core and use authentication and JWT Token.
-Used Sqlite For Database in this project.
-This Project is Written with Asp.Net core Version 8.
+This project is an example of creating a web API with ASP.NET Core, using authentication with JWT tokens. SQLite is used as the database in this project. This project is written in ASP.NET Core version 8.
